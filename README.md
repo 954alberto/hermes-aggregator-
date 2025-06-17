@@ -1,4 +1,4 @@
-# hermes-aggregator-
+# Hermes Aggregator
 Hermes is a lightweight Rust-based Swagger/OpenAPI aggregator designed for Kubernetes. 
 It automatically discovers microservices exposing Swagger specs, aggregates their API documentation into a unified Swagger UI endpoint, and simplifies API exploration for your teams.
 
